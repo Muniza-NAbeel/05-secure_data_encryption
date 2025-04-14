@@ -1,5 +1,7 @@
-Secure Data Encryption System :
+🔐 Secure Data Encryption System :
+
 📌 Overview
+
 This Secure Data Encryption System is a Streamlit-based Python application that allows users to:
 ✅ Register and Login securely
 ✅ Encrypt & Store sensitive data using AES-128 (Fernet Encryption)
